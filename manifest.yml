@@ -1,0 +1,7 @@
+applications:
+- path: .
+  name: GetStartedGo
+  random-route: true
+  memory: 256M
+  buildpacks:
+  - binary_buildpack
