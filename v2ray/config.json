@@ -6,7 +6,7 @@
     "settings": {
       "clients": [
         {
-          "id": "8c35bef3-d51f-41ab-ac87-7b053410495b",
+          "id": "3a667b85-e084-4869-9a43-f0397488a06b",
           "alterId": 64       
         }
       ]
@@ -14,7 +14,7 @@
     "streamSettings": {
       "network": "ws",
       "wsSettings": {
-      "path": "/"
+      "path": "/mo"
       }     
     }
   }
