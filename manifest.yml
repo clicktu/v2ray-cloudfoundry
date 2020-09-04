@@ -1,6 +1,6 @@
 applications:
 - path: .
-  name: GetStartedGo
+  name: losttemple
   random-route: true
   memory: 256M
   buildpacks:
