@@ -2,19 +2,22 @@
   "inbounds": [
   {
     "port": 8080,
-    "protocol": "vmess",
+    "protocol": "vless",
     "settings": {
       "clients": [
         {
-          "id": "3a667b85-e084-4869-9a43-f0397488a06b",
-          "alterId": 64       
+          "id": "3b74aa86-8c67-41f1-b5b7-b8781ddaccf3",
+          "level": 0,
+          "email": "love@v2fly.org"
         }
-      ]
+      ],
+      "decryption": "none"
     },
     "streamSettings": {
       "network": "ws",
+      "security": "none",
       "wsSettings": {
-      "path": "/mo"
+      "path": "/mov"
       }     
     }
   }
